@@ -7,7 +7,7 @@ gem 'rails', '3.2.1'
 
 gem 'sqlite3'
 
-group :develpment do
+group :development do
       gem 'rspec-rails'
 end
 
